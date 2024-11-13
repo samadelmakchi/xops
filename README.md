@@ -2,6 +2,9 @@
 
 XOps, or Everything Operations, is a set of operational approaches in the field of information technology that aims to improve the management and automation of various processes, especially in the areas of development, deployment, and support of systems and applications. The goal of XOps is to foster collaboration between teams and automate processes so that operations are performed with greater speed, quality, and efficiency.
 
+[img1]: xops.jpg (XOps)
+![img1]
+
 The term XOps refers to a collection of operations indicated by the letter "X," which stands for "anything" in a flexible position. Some of the most common types of XOps are:
 
 - **DevOps (Development and Operations)**  

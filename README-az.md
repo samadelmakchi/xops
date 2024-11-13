@@ -1,6 +1,9 @@
 # XOps və ya Everything Operations
 XOps və ya Everything Operations, informasiya texnologiyaları sahəsində müxtəlif proseslərin, xüsusilə sistemlər və tətbiqlərin inkişafı, tətbiqi və dəstəklənməsi ilə bağlı idarə edilməsini və avtomatlaşdırılmasını yaxşılaşdırmaq məqsədi güdən bir sıra əməliyyat yanaşmalarıdır. XOps-un məqsədi, komandalar arasında əməkdaşlıq yaratmaq və prosesləri avtomatlaşdırmaqla əməliyyatların daha sürətli, keyfiyyətli və səmərəli şəkildə yerinə yetirilməsini təmin etməkdir.
 
+[img1]: xops.jpg (XOps)
+![img1]
+
 XOps termini, "X" hərfi ilə göstərilən və "hər şey" mənasını verən bir sıra əməliyyatları ifadə edir. Ən çox rast gəlinən XOps növlərindən bəziləri bunlardır:
 
 - **DevOps (Development and Operations)**  
